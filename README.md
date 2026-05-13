@@ -1,0 +1,2 @@
+# Jerizza-Portfolio
+My potfolio
