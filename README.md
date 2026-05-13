@@ -1,2 +1,6 @@
-# Jerizza-Portfolio
-My potfolio
+_site
+.sass-cache
+Gemfile.lock
+*.gem
+.jekyll-cache/
+.jekyll-cache
